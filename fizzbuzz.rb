@@ -1,2 +1,2 @@
 def fizzbuzz 
-  if int 
+  if int %
